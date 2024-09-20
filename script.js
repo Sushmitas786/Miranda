@@ -11,10 +11,12 @@ tl.to("#page1",{
     duration:0.1,
     delay:0.1
 })
+    
 .to("#page1",{
     y:"40vh",
     duration:1
 })
+    
 .to("#page1",{
     y:0,
     duration:1,
